@@ -6,5 +6,9 @@ public class Exception {
         System.out.println("Enter the index of the array to print its content");
         Scanner index = new Scanner(System.in);
         System.out.println(arr[index.nextInt()]);
+        System.out.println(arr[index.nextInt()]);
+        System.out.println(arr[index.nextInt()]);
+        System.out.println(arr[index.nextInt()]);
+        
     }
 }
